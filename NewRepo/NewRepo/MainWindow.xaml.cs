@@ -24,5 +24,9 @@ namespace NewRepo
         {
             InitializeComponent();
         }
+        public void SayHi()
+        {
+            //something
+        }
     }
 }
