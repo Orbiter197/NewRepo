@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo.csproj": {}
+    "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo\\NewRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo.csproj": {
+    "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo\\NewRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo.csproj",
+        "projectUniqueName": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo\\NewRepo.csproj",
         "projectName": "NewRepo",
-        "projectPath": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo.csproj",
+        "projectPath": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo\\NewRepo.csproj",
         "packagesPath": "C:\\Users\\Vsevolod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\obj\\",
+        "outputPath": "C:\\Users\\Vsevolod\\Gerenal\\Projects\\VisualStudioProjects\\NewRepo\\NewRepo\\NewRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
